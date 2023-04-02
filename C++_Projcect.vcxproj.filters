@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="0402생성자_소멸자_실습(3).cpp">
+    <ClCompile Include="0402생성자_소멸자_실습(4).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
